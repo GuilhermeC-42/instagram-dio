@@ -1,10 +1,9 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Template Página de Login
+O projeto tem como objetivo servir de template para uma página de login de website, utilizando conceitos de CSS com componentização flexível (flex).
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+## Instalação
+Os arquivos podem ser clonados diretamente do repositório no [GitHub](https://github.com/GuilhermeC-42/instagram-login-template)
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+## Tecnologias utilizadas
+*[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+*[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)

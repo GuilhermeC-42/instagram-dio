@@ -10,7 +10,8 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background: rgb(129,70,232);
+    background: linear-gradient(90deg, rgba(129,70,232,1) 7%, rgba(249,20,240,0.9780287114845938) 100%);
     margin: 0;
     padding: 0;
     display: flex;
@@ -46,6 +47,7 @@ body {
 }
 
 .group {
+    border-radius: 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -74,6 +76,7 @@ body {
 
 .profile-photo img {
     height: 6rem;
+    width: 6rem;
 }
 
 .instagram-login {
@@ -97,6 +100,7 @@ body {
 }
 
 .get-the-app {
+    font-weight: bold;
     display: flex;
     flex-direction: column;
     align-items: center;
